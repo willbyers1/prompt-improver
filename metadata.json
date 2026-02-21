@@ -1,0 +1,5 @@
+{
+  "name": "PromptAlchemy",
+  "description": "A sophisticated AI-powered prompt refiner that transforms weak drafts into high-performance prompts using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
