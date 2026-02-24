@@ -1,15 +1,22 @@
-🔮 PromptAlchemy
+🔮 PromptAlchemy:
 Turn Weak Words into Gold. A futuristic, single-file web application that transmutes basic drafts into master-level AI prompts using Google Gemini 1.5 Flash technology.
 
 📸 Screenshots
-<img width="100%" alt="App Interface" src="https://via.placeholder.com/1366x768/0f172a/38bdf8?text=PromptAlchemy+Interface+Preview" />
 
-📖 Overview
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/dc4f06fd-d160-4143-80c8-dc65d06cca4a" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/37a8249b-9a20-45e1-8de8-41c9b96bef4e" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/4fa3d546-1678-4759-bd5a-bb076dfd2526" />
+
+
+
+📖 Overview:
+
 PromptAlchemy is a lightweight, serverless tool designed to help developers and AI enthusiasts refine their interaction with Large Language Models. By leveraging the advanced reasoning of the Google Gemini API, the app analyzes vague input and reconstructs it with a professional persona, context, specific tasks, and constraints.
 
 The project features a "Dark Mode/Neon" aesthetic with a Glassmorphism UI, tailored for focus and clarity. It is built as a Single-File Application, meaning the entire logic resides in one HTML file for maximum portability.
 
-✨ Key Features
+✨ Key Features:
+
 🧪 AI-Powered Enhancement: Uses gemini-1.5-flash to rewrite drafts into structured, high-quality prompts.
 
 🔐 Bring Your Own Key (BYOK): Security-first architecture. Your API key is stored only in your browser's sessionStorage and is cleared when the tab is closed.
