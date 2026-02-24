@@ -1,6 +1,7 @@
 🔮 PromptAlchemy:
 Turn Weak Words into Gold. A futuristic, single-file web application that transmutes basic drafts into master-level AI prompts using Google Gemini 1.5 Flash technology.
 
+
 📸 Screenshots
 
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/dc4f06fd-d160-4143-80c8-dc65d06cca4a" />
@@ -9,10 +10,9 @@ Turn Weak Words into Gold. A futuristic, single-file web application that transm
 
 
 
+
 📖 Overview:
-
 PromptAlchemy is a lightweight, serverless tool designed to help developers and AI enthusiasts refine their interaction with Large Language Models. By leveraging the advanced reasoning of the Google Gemini API, the app analyzes vague input and reconstructs it with a professional persona, context, specific tasks, and constraints.
-
 The project features a "Dark Mode/Neon" aesthetic with a Glassmorphism UI, tailored for focus and clarity. It is built as a Single-File Application, meaning the entire logic resides in one HTML file for maximum portability.
 
 ✨ Key Features:
@@ -99,7 +99,7 @@ Distributed under the MIT License. See LICENSE for more information.
 <div align="center">
 
 CLICK TO USE
-If the link doesn't work here is the URL: https://willbyers1.github.io/PromptAlchemy/
+If the link doesn't work here is the URL: https://willbyers1.github.io/prompt-improver/
 
 Created by Mert Batu Bülbül
 
