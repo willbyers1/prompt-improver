@@ -1,5 +1,5 @@
 🔮 PromptAlchemy:
-Turn Weak Words into Gold. A futuristic, single-file web application that transmutes basic drafts into master-level AI prompts using Google Gemini 1.5 Flash technology.
+Turn Weak Words into Gold. A futuristic, single-file web application that transmutes basic drafts into master-level AI prompts using Google Gemini 3.5 Flash technology.
 
 
 📸 Screenshots
